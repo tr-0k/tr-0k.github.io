@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"                  # UNCOMMENT THIS LINE
-baseURL = "https://tr0k.github.io/"
+baseURL = "https://tr-0k.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
