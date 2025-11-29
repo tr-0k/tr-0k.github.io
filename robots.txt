@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tr-0k.github.io/sitemap.xml
