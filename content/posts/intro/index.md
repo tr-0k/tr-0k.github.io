@@ -2,7 +2,7 @@
 title: "Hey!"
 date: 2025-11-29
 draft: false
-summary: "Introduction"
+summary: "Please allow me to introduce myself I am man of wealth and taste..."
 ---
 
 # Been tryin' to meet you
